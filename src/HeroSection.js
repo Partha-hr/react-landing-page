@@ -41,7 +41,7 @@ const HeroSection = () => (
         src="screen_mockup.png"
         alt="heroscreen"
         className="img-fluid mt-5"
-        style={{ border:' 5px solid', borderBottom:'0', borderRadius:'10px'}}
+        style={{ border:' 5px solid', borderBottom:'0', borderRadius:'10px',maxWidth:'100%',height:'auto'}}
         
       />
     </div>
