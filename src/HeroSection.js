@@ -38,9 +38,10 @@ const HeroSection = () => (
         <button className="btn btn-primary btn-lg mx-2 " style={{backgroundColor:"#7c55f7"}}>Sign Up</button>
       </div>
       <img id='hero'
-        src="herosecrtion.png"
-        alt="Desktop Screenshot"
+        src="screen_mockup.png"
+        alt="heroscreen"
         className="img-fluid mt-5"
+        style={{ border:' 5px solid', borderBottom:'0', borderRadius:'10px'}}
         
       />
     </div>

@@ -1,7 +1,7 @@
 
 import HeroSection from './HeroSection';
 import './App.css';
-// import Header from './Header';
+import Header from './Header';
 import SocialProof from './SocialProofSection';
 import Feature from './Feature';
 import Testimonials from './Testomonials';
@@ -16,7 +16,7 @@ import Footer from './Footer';
 function App() {
   return (
     <div className='App'>
-{/* <Header /> */}
+<Header />
 <HeroSection />
 <SocialProof />
 <SectionDivider/>

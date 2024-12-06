@@ -10,7 +10,7 @@ const SocialProof = () => (
           <img src="boltshift.png" alt="Boltshift" className="img-fluid" />
         </div>
         <div className=" col-12 col-md-6 col-xl-2 mb-2 ">
-          <img src="lightbox).png" alt="Lightbox" className="img-fluid" />
+          <img src="lightbox.png" alt="Lightbox" className="img-fluid" />
         </div>
         <div className=" col-12 col-md-6 col-xl-2 mb-2 ">
           <img src="featherdev.png" alt="FeatherDev" className="img-fluid" />
