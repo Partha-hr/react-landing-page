@@ -16,10 +16,9 @@ const SocialProof = () => (
           <img src="featherdev.png" alt="FeatherDev" className="img-fluid" />
         </div>
         
-        {/* <div className='row justify-content-center mt-4'> */}
-          {/* right column */}
+       
         <div className=" col-12 col-md-6 col-xl-2 mb-2 ">
-          <img src="spherule.png" alt="Sphere" className="img-fluid" />
+          <img src="Spherule.png" alt="Sphere" className="img-fluid" />
         </div>
         <div className="col-12 col-md-6 col-xl-2 mb-2 ">
           <img src="globalbank.png" alt="GlobalBank" className="img-fluid" />

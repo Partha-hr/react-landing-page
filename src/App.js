@@ -18,7 +18,6 @@ function App() {
     <div className='App'>
     <Header />
     <HeroSection />
-    
 <SocialProof />
 <SectionDivider/>
 <Feature />
